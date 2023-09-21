@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj": {}
+    "C:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj": {
+    "C:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj",
+        "projectUniqueName": "C:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj",
         "projectName": "Slagsmål",
-        "projectPath": "c:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj",
+        "projectPath": "C:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\Slagsmål.csproj",
         "packagesPath": "C:\\Users\\alvin.gille\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\obj\\",
+        "outputPath": "C:\\Users\\alvin.gille\\Documents\\Prog\\Slagsmål\\Slagsmål\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
